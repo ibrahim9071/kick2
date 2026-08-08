@@ -1,0 +1,89 @@
+{
+    "output": {
+        "folder": "streams",
+        "bestFolder": "best",
+        "masterFolder": ""
+    },
+    "channels": [
+        {
+            "name": "telezentvchannel",
+            "slug": "telezentvchannel",
+            "url": "https://kick.com/telezentvchannel"  
+        },
+        {
+            "name": "Resurrection_Channel_TV",
+            "slug": "resurrection-channel-tv",
+            "url": "https://kick.com/resurrection-channel-tv"  
+        },
+        {
+            "name": "Artı TV",
+            "slug": "artitv",
+            "url": "https://www.nimo.tv/artitv"
+        },
+        {
+            "name": "Başka TV [Kick]",
+            "slug": "baska-tv",
+            "url": "https://kick.com/baska-tv"
+        },
+        {
+            "name": "Başka TV [Twitch]",
+            "slug": "baskatv-twitch",
+            "url": "https://www.twitch.tv/baska_tv"
+        },
+        {
+            "name": "SuperonlineF100ResurrecTV",
+            "slug": "superonlinef100resurrectv",
+            "url": "https://kick.com/superonlinef100resurrectv"
+        },
+        {
+            "name": "KANALF",
+            "slug": "kanalf",
+            "url": "https://kick.com/kanalf"
+        },
+        {
+            "name": "efsane_tv",
+            "slug": "efsane_tv",
+            "url": "https://kick.com/efsane_tv"
+        },
+        {
+            "name": "Bizim Bergama TV",
+            "slug": "bizimbergamatv",
+            "url": "https://www.twitch.tv/bizimbergama"
+        },
+        {
+            "name": "Euro 90 TV",
+            "slug": "euro90tv",
+            "url": "https://www.twitch.tv/euro90tvglobal"  
+        },
+        {
+            "name": "Kuzey TV",
+            "slug": "kuzeytv",
+            "url": "https://kick.com/kuzeymedyatv"  
+        },
+        {
+            "name": "Safa TV",
+            "slug": "safatv",
+            "url": "https://www.twitch.tv/safatv95"  
+        },
+        {
+            "name": "Serhat TV",
+            "slug": "serhattv",
+            "url": "https://www.twitch.tv/serhattvlive"
+        },
+        {
+            "name": "Sirius TV",
+            "slug": "siriustv",
+            "url": "https://www.twitch.tv/siriushdtv"  
+        },
+        {
+            "name": "teleontv",
+            "slug": "teleontv",
+            "url": "https://kick.com/teleontv"  
+        },
+        {
+            "name": "TV Kayseri",
+            "slug": "tvkayseri",
+            "url": "https://www.twitch.tv/tvkayseri"
+        }
+    ]
+}
